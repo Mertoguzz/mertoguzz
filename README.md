@@ -15,7 +15,7 @@
 [linkedin]:https://www.linkedin.com/in/mustafamertoguz/
 
 <br/>
-<br/>
+
 <!-- <br/> -->
 
 
@@ -32,8 +32,8 @@
 
 <details>
 <summary>
-:bulb: Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertoguzz&theme=tokyonight&layout=compact   ">
-</summary>
+:bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertoguzz&theme=tokyonight&layout=compact">
+
 
 </details>
