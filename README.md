@@ -2,7 +2,7 @@
 
 <hr/>
 
-👨‍💻 I work for Ericsson.
+👨‍💻 I work for Bupa Acıbadem Sigorta.
 
 <!-- 🌱 I’m currently learning ... -->
 
