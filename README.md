@@ -2,7 +2,7 @@
 
 <hr/>
 
-👨‍💻 I work for Bupa Acıbadem Sigorta.
+👨‍💻 I work for Intertech.
 
 <!-- 🌱 I’m currently learning ... -->
 
